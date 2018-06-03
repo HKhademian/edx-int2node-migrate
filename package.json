@@ -1,0 +1,17 @@
+{
+  "name": "edx-int2node-migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "burn": "node burn",
+    "migrate": "node migrate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "3.0.10"
+  },
+  "devDependencies": {}
+}
